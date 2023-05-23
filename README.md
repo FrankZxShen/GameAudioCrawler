@@ -1,11 +1,13 @@
 # GameAudioCrawler
 
-用于爬取常见二游wiki的角色音频
+用于爬取常见二游wiki的所有角色音频
 
-答辩完了，持续更新中。。。
+持续更新中。。。
 
- - [ ] fgo
+ - [ ] Fate/Grand Order
+ 
+ - [ ] Blue Archive
+ 
+ - [x] ウマ娘 プリティーダービー
 
- - [ ] 赛马娘
-
- - [ ] 公主连结Re:Dive
+ - [x] プリンセスコネクト！Re:Dive
