@@ -6,7 +6,7 @@
 
  - [ ] Fate/Grand Order
  
- - [ ] Blue Archive
+ - [x] Blue Archive
  
  - [x] ウマ娘 プリティーダービー
 
