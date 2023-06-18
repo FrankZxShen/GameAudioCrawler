@@ -4,7 +4,7 @@
 
 基本完成，最近赶项目赶出病来了，休息一段时间。
 
- - [ ] Fate/Grand Order
+ - [x] Fate/Grand Order
  
  - [x] Blue Archive
  
