@@ -8,6 +8,7 @@
 修改存在的问题；
 上传
 已上传剩下的部分；
+写文章去了，隔段时间在传。
  - [x] Fate/Grand Order
  
  - [x] Blue Archive
