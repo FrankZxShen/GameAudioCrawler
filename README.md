@@ -9,6 +9,7 @@
 存在更新问题
 已上传剩下fgo的部分；
 写文章去了，隔段时间在传。
+8月之前完成；
  - [x] Fate/Grand Order
  
  - [x] Blue Archive
